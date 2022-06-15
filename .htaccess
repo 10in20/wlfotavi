@@ -1,6 +1,6 @@
 
 RewriteEngine on
-RewriteCond %{HTTP_HOST} ^specialofferbuynow.online\.in$
+RewriteCond %{HTTP_HOST} ^vitalflow.specialofferbuynow.online\.in$
 RewriteRule ^/?$ "http\:\/\/vitalflow\.specialofferbuynow.online\.in\/" [R=301,L]
 RewriteEngine on
 RewriteBase /
